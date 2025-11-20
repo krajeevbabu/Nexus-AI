@@ -1,0 +1,7 @@
+{
+  "name": "Nexus AI Suite",
+  "description": "An elite, all-in-one AI toolkit referencing the 2026 AI Skills landscape. Features a curated directory of 120+ tools and a functional generative AI studio powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
